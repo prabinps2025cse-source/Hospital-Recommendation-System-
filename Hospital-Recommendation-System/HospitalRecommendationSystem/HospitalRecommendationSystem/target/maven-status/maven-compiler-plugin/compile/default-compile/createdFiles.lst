@@ -1,0 +1,10 @@
+com\hospital\service\RecommendationOperations.class
+com\hospital\db\DatabaseConnection.class
+com\hospital\service\RecommendationService.class
+com\hospital\service\DoctorRecommendationService.class
+com\hospital\exception\SymptomNotFoundException.class
+com\hospital\service\AbstractRecommendationService.class
+com\hospital\Main.class
+com\hospital\service\HospitalRecommendationService.class
+com\hospital\service\SymptomRecommendationService.class
+com\hospital\ui\MainWindow.class
